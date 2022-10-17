@@ -1,3 +1,2 @@
 ## Mini Blog
-EJS / JWT Authentification and Authorization
-NodeJS ExpressJS restapi / Sequelize MySQL 
+EJS / NodeJS ExpressJS restapi / Sequelize MySQL 
