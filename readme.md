@@ -1,2 +1,2 @@
 ## Mini Blog
-EJS / NodeJS ExpressJS restapi / Mongoose MongoDB
+EJS / NodeJS ExpressJS restapi / Squelize MySQL
